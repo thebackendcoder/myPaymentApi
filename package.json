@@ -1,0 +1,23 @@
+{
+  "name": "myPaymentApi",
+  "version": "1.0.0",
+  "description": "This APi enables you to do the payment using razor pay integration.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thebackendcoder/myPaymentApi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thebackendcoder/myPaymentApi/issues"
+  },
+  "homepage": "https://github.com/thebackendcoder/myPaymentApi#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
